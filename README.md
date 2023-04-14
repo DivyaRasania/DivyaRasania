@@ -6,4 +6,4 @@
 - 📫 How to reach me: rasaniadivya1@gmail.com
 - 😄 Pronouns: he/him
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DivyaRasania&theme=tokyonight)](https://github.com/DivyaRasania/DivyaRasania/README.md)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DivyaRasania&theme=dark)](https://github.com/DivyaRasania/DivyaRasania/README.md)
