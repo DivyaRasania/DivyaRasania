@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Divya Rasania</h1>
 <h3 align="center">A student at Ivy Tech Community College</h3>
 
-- 🌱 I’m currently learning **React, React Native, TypeScript**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DivyaRasania](https://github.com/DivyaRasania)
 
-- 💬 Ask me about **Android Studio, Visual Studio Code, Git, Bash, GitHub, Linux, Windows**
+- 💬 Ask me about **Android Studio, Visual Studio Code, Git, GitHub, Bash, Linux, Windows**
 
-- 📫 How to reach me **rasaniadivya1@gmail.com**
+- 📫 How to reach me [**rasaniadivya1@gmail.com**](mailto:rasaniadivya1+github@gmail.com)
 
 ## 🌐 Socials:
 <a href="https://instagram.com/divya_rasania" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
