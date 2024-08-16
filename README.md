@@ -76,7 +76,9 @@
   <img src="https://profile-counter.glitch.me/DivyaRasania/count.svg?"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/DivyaRasania/DivyaRasania/output/snake.svg" alt="Snake animation" />
+<picture>
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ## Contacts
 
