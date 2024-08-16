@@ -1,4 +1,4 @@
-# 👋Hello!!<br>👦My name is Divya Rasania<br>🎓I am a student at [Ivy Tech Community College](https://ivytech.edu)<br>🧑‍💻Planning to be a Software Developer<br>📧Reach me at [rasaniadivya1@gmail.com](mailto:rasaniadivya1@gmail.com)
+# 👋Hello!!<br>👦My name is Divya Rasania<br>🎓I am a student at [Ivy Tech Community College](https://ivytech.edu)<br>🧑‍💻Planning to be a Software Developer<br>
 
 ## Things I know
 
@@ -72,16 +72,18 @@
 </div>
 
 <div align="center">
+  <h4>GitHub View Counts</h4>
   <img src="https://profile-counter.glitch.me/DivyaRasania/count.svg?"  />
 </div>
 
 <img src="https://raw.githubusercontent.com/DivyaRasania/DivyaRasania/output/snake.svg" alt="Snake animation" />
 
+## Contacts
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="50" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="70" height="50" alt="microsoft-outlook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="70" height="50" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="70" height="50" alt="youtube logo"  />
+  <a href="https://instagram.com/divya_rasania"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="instagram logo"  /></a>
+  <a href="https://linkedin.com/in/divya-rasania><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"  /></a>
+  <a href="mailto:rasaniadivya1@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="70" height="50" alt="microsoft-outlook logo"  /></a>
+  <a href="https://wa.me/+13175313334><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="70" height="50" alt="whatsapp logo"  /></a>
+  <a href="https://www.youtube.com/@div--"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="70" height="50" alt="youtube logo"  /></a>
 </div>
