@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning C while practicing Java<br>🎯 Goals: Get an internship/part-time job as software developer<br>🎲 Fun fact: I am from India</p>
+<p align="left">
+  ✨ Creating bugs since 2020<br>
+  📚 I'm currently learning MERN stack for Internship in YSTEM and Chess<br>
+  🎯 Goals: Get an internship/part-time job as software developer<br>
+  🎲 Fun fact: I am from India
+</p>
 
 ###
 
